@@ -1,0 +1,207 @@
+.primeiro{
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border: 3px solid lightgray;
+    padding: 15px;
+    margin: 20px;
+    font-style: italic;
+
+}
+
+#titulo {
+    color: white;
+    text-align: justify;
+    border: 3px solid darkblue;
+    padding: 15px;
+    margin: 20px;
+  
+}
+
+body {
+
+   background-color: rgb(42, 42, 61);
+}
+
+#winux {
+    display: block;
+    margin: 0 auto;
+}
+
+#t2 {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border: 3px solid darkblue;
+    margin: 20px;
+    padding: 15px;
+    font-style: italic;
+    
+  
+}
+
+#P {
+
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 20px;
+    padding: 15px;
+    font-style: italic;
+    background-color: blue;
+    
+
+}
+
+.div-ul {
+
+    color: black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: gray;
+
+}
+
+#pen-drive {
+
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+#rufus {
+
+    color: white;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+    background-color: blue;
+
+}
+
+.div-rufus {
+
+    color: black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid  white;
+    background-color: gray;
+    
+}
+
+.rufus-image {
+
+    display: block;
+    margin-right: 0 auto;
+}
+
+.div-iso {
+
+    color: black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid white;
+    background-color: gray;
+    
+}
+
+#title-iso {
+
+    color: white;
+    text-align: justify;
+    margin: 20px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: blue;
+   
+}
+
+.image-iso {
+
+    display: block;
+    margin: 0 auto;
+}
+
+#titulo-instalar {
+
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+    border: 3px solid darkblue;
+}
+
+.instalar-class {
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15p;
+    border: 1px solid white;
+    background-color: gray;
+}
+
+#titulo-abrir {
+
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+    border: 3px solid darkblue;
+}
+
+.div-abrir {
+
+    color: black;
+    border: 1px solid white;
+    background-color: gray;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+
+}
+
+#titulo-beneficios {
+
+    color: white;
+    text-align: justify;
+    border: 3px solid darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin: 20px;
+    padding: 15px;
+}
+
+.beneficios-class {
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    border: 1px solid white;
+    background-color: gray;
+    text-align: justify;
+    margin: 20px;
+    padding: 15px;
+}
